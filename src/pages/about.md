@@ -3,34 +3,38 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+About
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
+This Blog
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+The content you’ll find on this site likely won’t be new or novel. I’ve simply found that writing down what I’ve learned and articulating my opinions on topics through writing is the most effective tool. I figure why not share with the broader community on the off chance that something could be meaningful.
 
-<div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
-</div>
+Me
 
-## Tech Stack
+I’m an IoT architect with experience across consulting, high-growth organizations (through an IPO), and well-established manufacturers.
 
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
+Motivated by working with systems that are or soon will operate at tremendous scale and that have a direct human impact.
 
-## Features
+Equally engaged by conversation around technical design, business objectives, or how to attract, grow, and retain the best talent.
 
-Here are certain features of this site.
+Domains I’m passionate about:
 
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
+Internet of Things (IoT)
+Industrial Internet of Things (IIoT)
+Fleet Management / Over the Air Firmware Updates (OTA)
+DevOps
+Infrastructure as Code (IaC)
+Serverless Architectures
+API Development
+Monitoring, Alerting, Logging, and other instrumentation systems
+Favorite AWS Services
 
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
+AWS Lambda
+Amazon API Gateway
+AWS IoT Core
+
+A few of the principles I subscribe to:
+
+- Extreme Ownership
+- Iterate fast. Talk about the details after you’ve built v1.
+- Always be learning
