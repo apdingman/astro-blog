@@ -10,7 +10,7 @@ tags:
 description: 3 Reasons why you should use Distribution Lists for the AWS Account Root User
 ---
 
-The AWS Account Root User is the identity that has complete access to all AWS services and resources in an AWS account. If you spin up a new account, it’s probably first instinct to just slap your johndoe@companyxyz.com email address as the root user account and move on, but maybe that’s not the best idea.
+The AWS Account Root User is the identity that has complete access to all AWS services and resources in an AWS account. If you spin up a new account, it’s probably first instinct to just slap your <johndoe@companyxyz.com> email address as the root user account and move on, but maybe that’s not the best idea.
 
 ## The List
 
@@ -29,9 +29,9 @@ If you have a multi-account strategy (you probably should), then consider defini
 | Account Id                | Account Alias                   | Account Root User                                |
 | ------------------------- | ------------------------------- | ------------------------------------------------ |
 | {assigned account number} | {company}-{business unit}-{env} | {company}-{business unit}-{env}@{company domain} |
-| xxxxxxxxxxx1              | acme-iot-dev                    | acme-iot-dev@acmecorp.com                        |
-| xxxxxxxxxxx2              | acme-iot-stg                    | acme-iot-stg@acmecorp.com                        |
-| xxxxxxxxxxx3              | acme-iot-prod                   | acme-iot-prod@acmecorp.com                       |
+| xxxxxxxxxxx1              | acme-iot-dev                    | <acme-iot-dev@acmecorp.com>                      |
+| xxxxxxxxxxx2              | acme-iot-stg                    | <acme-iot-stg@acmecorp.com>                      |
+| xxxxxxxxxxx3              | acme-iot-prod                   | <acme-iot-prod@acmecorp.com>                     |
 
 ## Other things to consider
 
