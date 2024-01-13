@@ -5,7 +5,7 @@ export const SITE: Site = {
   author: "Adam Dingman",
   desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
   title: "Adam Dingman",
-  ogImage: "astropaper-og.jpg",
+  ogImage: "profile_photo.jpg",
   lightAndDarkMode: false,
   postPerPage: 3,
 };
@@ -49,13 +49,13 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "Mail",
-    href: "mailto:yourmail@gmail.com",
+    href: "mailto:adam@adamdingman.net",
     linkTitle: `Send an email to ${SITE.title}`,
     active: false,
   },
   {
     name: "Twitter",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://twitter.com/adam_dingman",
     linkTitle: `${SITE.title} on Twitter`,
     active: false,
   },

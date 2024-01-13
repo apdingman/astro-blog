@@ -1,5 +1,5 @@
 ---
-author: Sat Naing
+author: Adam Dingman
 pubDatetime: 2023-02-01T00:15:41.816Z
 title: "Continuous Delivery vs. Continuous Deployment"
 slug: "cd-vs-cd"
